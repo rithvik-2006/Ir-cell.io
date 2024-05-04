@@ -5,7 +5,7 @@ export default function DirectorMessage(){
     <div className="message-container">
         
      <div className="message-img">
-        <img className="image" src="https://ir.iith.ac.in/assets/images/director_murty.jpg"/>
+        <img className="image" alt="director-img" src="https://ir.iith.ac.in/assets/images/director_murty.jpg"/>
      </div>
      <div className="message-text">
         
