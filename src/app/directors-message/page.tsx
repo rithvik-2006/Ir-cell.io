@@ -1,7 +1,7 @@
 export default function DirectorMessage(){
     return(
         <div className="m-container">
-            <h1>Director's Message</h1>
+            <h1>Director&apos;s Message</h1>
     <div className="message-container">
         
      <div className="message-img">
